@@ -386,6 +386,7 @@
 {"name":"盐城新闻综合","urls":["http://stream.0515yc.cn/yctv1/playlist.m3u8","http://stream.0515yc.cn/yctv1/playlist.m3u8?zjiangsd"]},
 {"name":"浙江少儿","urls":["http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"]},
 {"name":"宁波少儿","urls":["http://liveplay.nbtv.cn/live/nbtv5_md.m3u8?auth_key=1671676873-0-0-7150543303f14aa080dc7aa944190984"]},
+{"name":"余姚新闻","urls":["http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"]},
 {"name":"宁波新闻","urls":["http://liveplay.nbtv.cn/live/nbtv1_md.m3u8","http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1671676569-0-0-ff16a93566820394e9a8236414a9619e"]}, 
 {"name":"望江黄梅戏","urls":["http://p6.vzan.com/slowlive/277167265385951116/live.m3u8"]},
 {"name":"枞阳电视台","urls":["http://live.cms.anhuinews.com/video/s10027-ZYTV/index.m3u8","http://112.27.89.235:8008/out_1/index.m3u8?zanhd","http://120.210.216.73:8080/ysten-business/live/SD12-576P-zystv/1.m3u8?zanhd"]},
