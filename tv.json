@@ -381,6 +381,7 @@
 {"name":"苏州电影娱乐","urls":["http://liveshowbak2.kan0512.com/norecord/ncsztv4_sd.m3u8","http://liveshowbak2.kan0512.com/norecord/ncsztv4_sd.flv","rtmp://liveshowbak2.kan0512.com/norecord/ncsztv4_sd"]},
 {"name":"江苏学习","urls":["https://live-hls.jstv.com/livezhuzhan/xxpd.m3u8?upt=44cf1c9c2510710360","http://litchiapp-rtmp.jstv.com/lizhiapp/xxpd.m3u8","http://m.a1.gs/p/migu.php?id=jsxx"]},
 {"name":"南京新闻","urls":["http://183.207.248.11/PLTV/4/224/3221227213/index.m3u8","http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8"]},
+{"name":"上海外语","urls":["http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8"]},
 {"name":"无锡新闻","urls":["http://stream.thmz.com/wxtv1/sd/live.m3u8","http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8","http://m.a1.gs/p/migu.php?id=wxzh"]},
 {"name":"盐城城市公共","urls":["http://stream.0515yc.cn/yctv3/playlist.m3u8","http://stream.0515yc.cn/yctv3/playlist.m3u8?zjiangsd"]},
 {"name":"盐城新闻综合","urls":["http://stream.0515yc.cn/yctv1/playlist.m3u8","http://stream.0515yc.cn/yctv1/playlist.m3u8?zjiangsd"]},
