@@ -382,6 +382,8 @@
 {"name":"江苏学习","urls":["https://live-hls.jstv.com/livezhuzhan/xxpd.m3u8?upt=44cf1c9c2510710360","http://litchiapp-rtmp.jstv.com/lizhiapp/xxpd.m3u8","http://m.a1.gs/p/migu.php?id=jsxx"]},
 {"name":"南京新闻","urls":["http://183.207.248.11/PLTV/4/224/3221227213/index.m3u8","http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8"]},
 {"name":"无锡新闻","urls":["http://stream.thmz.com/wxtv1/sd/live.m3u8","http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8","http://m.a1.gs/p/migu.php?id=wxzh"]},
+{"name":"盐城城市公共","urls":["http://stream.0515yc.cn/yctv3/playlist.m3u8","http://stream.0515yc.cn/yctv3/playlist.m3u8?zjiangsd"]},
+{"name":"盐城新闻综合","urls":["http://stream.0515yc.cn/yctv1/playlist.m3u8","http://stream.0515yc.cn/yctv1/playlist.m3u8?zjiangsd"]},
 {"name":"浙江少儿","urls":["http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"]},
 {"name":"宁波少儿","urls":["http://liveplay.nbtv.cn/live/nbtv5_md.m3u8?auth_key=1671676873-0-0-7150543303f14aa080dc7aa944190984"]},
 {"name":"宁波新闻","urls":["http://liveplay.nbtv.cn/live/nbtv1_md.m3u8","http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1671676569-0-0-ff16a93566820394e9a8236414a9619e"]}, 
